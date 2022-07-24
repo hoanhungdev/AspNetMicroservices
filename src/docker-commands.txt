@@ -45,3 +45,6 @@ docker system prune
 
 /* remove all unused volumnes */
 docker volume prune
+
+/* Portainer */
+port 9000 (admin/ admin123456789)
